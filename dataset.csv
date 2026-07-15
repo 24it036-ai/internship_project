@@ -1,0 +1,8 @@
+Age,Salary,Gender,City,Target
+22,35000,Male,Ahmedabad,1
+25,42000,Female,Rajkot,0
+30,,Male,Surat,1
+28,50000,Female,,0
+45,120000,Male,Ahmedabad,1
+35,65000,Female,Surat,0
+29,,Male,Rajkot,1
